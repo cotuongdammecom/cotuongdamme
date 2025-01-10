@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cờ Tướng Đam Mê</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Cờ Tướng Đam Mê Logo" class="logo">
+        <h1>Welcome to Cờ Tướng Đam Mê</h1>
+        <p>Your hub for mastering the art of Xiangqi!</p>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Cờ Tướng Đam Mê is the go-to platform for Xiangqi enthusiasts. Discover tactics, learn strategies, and explore games from masters worldwide.</p>
+        </section>
+        <section id="resources">
+            <h2>Resources</h2>
+            <ul>
+                <li><a href="https://cotuongdamme.com" target="_blank" rel="noopener noreferrer">Official Website</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Xiangqi" target="_blank" rel="noopener noreferrer">Learn about Xiangqi</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Cờ Tướng Đam Mê. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
